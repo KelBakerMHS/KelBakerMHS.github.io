@@ -3,8 +3,10 @@ body {
 }
 
 canvas {
-  background-color: lightblue;
+  background-image: url('https://static.wikia.nocookie.net/blazblue/images/c/cd/BlazBlue_Centralfiction_%28Logo%29.png/revision/latest?cb=20150728121344');
+  background-color: rgb(255, 127, 22);
   margin: 20px;
+  background-size:1400px;
 }
 
 img {
